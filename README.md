@@ -3,7 +3,7 @@
 ## Hi there 👋
 ### About ME
 
-- 🏫 I am currently attending Jeju Halla University.
+- 🏫 I am currently attending Cheju Halla University.
 - 💻 I am majoring in Artificial Intelligence Engineering.
 - 😀 My fields of interest include Large Language Models (LLM) and Computer Vision.
 
