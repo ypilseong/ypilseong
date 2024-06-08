@@ -24,7 +24,7 @@
 
 
 
-[![Pil Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypilseong&hide=stars&count_private=true&show_icons=true&theme=city_lights)](https://github.com/ypilseong/github-readme-stats)
+[![Pil Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypilseong&hide=stars&count_private=true&show_icons=true&theme=city_lights&hide_rank=true)](https://github.com/ypilseong/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=github-readme-stats&theme=city_lights)](https://github.com/ypilseong/github-readme-stats)
 
