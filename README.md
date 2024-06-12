@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="opencv" />
     <img src="https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" alt="huggingface" />
     <img src="https://img.shields.io/badge/langchain-04B404.svg?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="langchain" />
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="pytorch" />
+    <img src="https://img.shields.io/badge/transformers-FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=FFFFFF" alt="transformers" />
 </div>
 
 <div>
