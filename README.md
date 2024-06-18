@@ -1,5 +1,5 @@
 <div>
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=WELCOME-nl-PIL%20%20SEONG%20%20Github&fontsize=90&animation=twinkling" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=WELCOME-nl-PIL%20%20SEONG%20%20Github&fontsize=90&animation=twinkling&fontColor=0B614B" alt="header" />
 </div>
 
 <div>
