@@ -53,22 +53,25 @@
 </div>
 
 <div>
+    <h3>📊 GitHub Stats</h3>
     <a href="https://github.com/ypilseong/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=ypilseong&hide=stars&count_private=true&show_icons=true&theme=city_lights&hide_rank=true" alt="Pil Seong's GitHub stats" />
     </a>
 </div>
 
 <div>
+    <h3>📂 Featured Projects</h3>
     <a href="https://github.com/ypilseong/LectureSync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=LectureSync&theme=city_lights" alt="Readme Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=LectureSync&theme=city_lights" alt="LectureSync Project" />
     </a>
     <a href="https://github.com/ypilseong/fake-review-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=fake-review-detection&theme=city_lights" alt="Readme Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=fake-review-detection&theme=city_lights" alt="Fake Review Detection Project" />
     </a>
 </div>
 
 <div>
+    <h3>🗂 Top Languages</h3>
     <a href="https://github.com/ypilseong/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypilseong&layout=compact&theme=city_lights" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypilseong&layout=compact&theme=city_lights" alt="Top Languages" />
     </a>
 </div>
