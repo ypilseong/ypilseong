@@ -62,7 +62,7 @@
     <a href="https://github.com/ypilseong/LectureSync">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=LectureSync&theme=city_lights" alt="Readme Card" />
     </a>
-    <a href="https://github.com/ypilseong/data_preprocessing_review">
+    <a href="https://github.com/ypilseong/fake-review-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ypilseong&repo=data_preprocessing_review&theme=city_lights" alt="Readme Card" />
     </a>
 </div>
