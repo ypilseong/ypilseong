@@ -6,7 +6,6 @@
     <h2>Hi there 👋</h2>
     <h3>About ME</h3>
     <ul>
-        <li>🏫 I am currently attending Cheju Halla University.</li>
         <li>💻 I am majoring in Artificial Intelligence Engineering.</li>
         <li>😀 My fields of interest include Large Language Models (LLM) and Computer Vision.</li>
     </ul>
